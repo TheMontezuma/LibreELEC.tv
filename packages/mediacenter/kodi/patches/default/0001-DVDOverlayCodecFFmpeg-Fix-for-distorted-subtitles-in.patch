@@ -1,7 +1,7 @@
-From 7b5a8a1e7b56f0b3be1cd627c867bfa0a62ca60c Mon Sep 17 00:00:00 2001
+From 395b68475e72ffc8de57149574b272280bf18067 Mon Sep 17 00:00:00 2001
 From: popcornmix <popcornmix@gmail.com>
 Date: Mon, 16 Sep 2019 16:04:28 +0100
-Subject: [PATCH] DVDOverlayCodecFFmpeg: Fix for distorted subtitles in 3D
+Subject: [PATCH 1/2] DVDOverlayCodecFFmpeg: Fix for distorted subtitles in 3D
  modes
 
 See: https://github.com/xbmc/xbmc/issues/16362
