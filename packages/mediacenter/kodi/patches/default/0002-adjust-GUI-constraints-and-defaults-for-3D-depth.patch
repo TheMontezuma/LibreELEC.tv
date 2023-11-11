@@ -1,7 +1,7 @@
 From b48aa47998c9f9f80610b3a0814f1297d3b31e36 Mon Sep 17 00:00:00 2001
 From: Marcin Sochacki <marcin.sochacki@gmx.net>
 Date: Sat, 22 Jan 2022 14:01:44 +0100
-Subject: [PATCH 2/2] adjust GUI constraints and defaults for 3D depth
+Subject: [PATCH 2/3] adjust GUI constraints and defaults for 3D depth
 
 ---
  system/settings/settings.xml | 12 ++++++------
